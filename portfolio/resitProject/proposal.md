@@ -19,13 +19,10 @@ You should complete this datavis project proposal by **Sunday 5th March, 5pm UK 
 
 {(questions|}
 
-- How does a series' length affect its viewership and score overtime?
-- Do longer Arcs and Sagas do better for a series or worse?
-- What do the most watched/scored episodes have in common in order to do so well?
-- Did the age group watching this series change overtime or stay within the same demographic?
-- Do roughly the same chapters/episodes recieve similar scores or viewers?
-- Can the introduction of new characters affect a series' viewership in any way?
-
+- How did the number of people/families living in flats, houses, or apartments change in different regions of England and Wales overtime?
+- How has the tenure type changed the amount of people that Socially rent, Privately rent or lives rent free over the past decade?
+- Which regions in England and Wales experienced the most number changes in the number of rooms per household between 2011 and 2021, and why could this be the case?
+- What percentage of households are overcrowded or under-occupied and what could be the fators affecting this?
 {|questions)}
 
 {(datasources|}
@@ -39,5 +36,7 @@ https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingeng
 {(justification|}
 
 _A couple of sentences on why you need datavis to answer your research questions._
+
+By using Data Visualisation to understand the housing market I will be able to present the information in a clear way which will help people comprehend the changes that have occured over the years and what things to lookout for when renting or buying a new house in England and Wales. Additionally, showing the data like this will aid buyers to see trends and regional comparisons to further aid in their decision making.
 
 {|justification)}
