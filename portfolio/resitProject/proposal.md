@@ -18,7 +18,6 @@ You should complete this datavis project proposal by **Sunday 5th March, 5pm UK 
 {|task)}
 
 {(questions|}
-
 - How did the number of people/families living in flats, houses, or apartments change in different regions of England and Wales overtime?
 - How has the tenure type changed the amount of people that Socially rent, Privately rent or lives rent free over the past decade?
 - Which regions in England and Wales experienced the most number changes in the number of rooms per household between 2011 and 2021, and why could this be the case?
